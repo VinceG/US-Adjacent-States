@@ -5,6 +5,6 @@ US Adjacent States
 
 This Repository contains a CSV file, PHP Array file and a MYSQL Dump file for all the states that have at least one adjacent state.
 
-This was created due to a recent need for this and since i wasn't able to find a good resource i've decided to create this.
+This was created due to a recent need for this and since i wasn't able to find a good resource i've decided to create it.
 
 <p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> 2012</p>
