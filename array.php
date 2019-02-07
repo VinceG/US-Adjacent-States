@@ -47,6 +47,7 @@ return array(
 	'TX' => array('LA', 'AR', 'OK', 'NM'),
 	'UT' => array('WY', 'CO', 'NM', 'AZ', 'NV', 'ID'),
 	'VA' => array('WV', 'MD', 'KY', 'TN', 'NC'),
+	'VT' => array('MA',	'NH', 'NY'),
 	'WA' => array('ID', 'OR'),
 	'WV' => array('PA', 'MD', 'VA', 'KY', 'OH'),
 	'WI' => array('MI', 'IL', 'IA', 'MN'),
